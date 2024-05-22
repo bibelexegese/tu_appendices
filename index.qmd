@@ -1,0 +1,10 @@
+---
+title: "Texte und Untersuchungen zur Geschichte der altkirchlichen Literatur (TU) – Forschungsdaten"
+---
+
+## Band 197 (Cordula Bandt and Reinhart Ceulemans, edd., Research on Psalter Catenae: Current Trends and Recent Developments, Berlin/Boston 2024)
+
+- [Reinhart Ceulemans, The hermēneiai published in Les chaînes exégétiques grecques sur les Psaumes (1986–2018) – Dataset](data_ceulemans/index.html)
+- [Barbara Crostini, The Captions to the Illustrations in MS Vaticanus graecus 752 – Dataset](data_crostini/index.html)
+
+

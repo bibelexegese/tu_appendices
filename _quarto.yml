@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "TU-Appendices"
+  search: false
+  page-footer: 
+    background: dark
+    right: Dieses Webangebot wird bereitgestellt und betreut von [TELOTA - IT/DH](https://www.bbaw.de/bbaw-digital/telota)
+    left: "Herausgegeben von der [Berlin-Brandenburgischen Akademie der Wissenschaften](https://www.bbaw.de)" 
+  navbar:
+    tools:
+      - icon: mastodon
+        href: https://hcommons.social/@bibelexegese
+    left:
+      - href: index.qmd
+        text: Start
+      - imprint.qmd
+
+format:
+  html:
+    embed-resources: true
+    theme: cosmo
+    toc: false
+    toc-title: Inhalt
+    minimal: true
+
+
+
