@@ -2,9 +2,11 @@
 title: "Texte und Untersuchungen zur Geschichte der altkirchlichen Literatur (TU) – Forschungsdaten"
 ---
 
+## Band 196 (Jacopo Marcon, The Pseudo-Oecumenian Catena on Romans. A Philological Examination Of One Of The Earliest Catenae On The Pauline Epistles, Berlin/Boston 2025)
+
+- [Appendix: Contents Of The Catena Of GA 1923 – Dataset](data_marcon/index.html)
+
 ## Band 197 (Cordula Bandt and Reinhart Ceulemans, edd., Research on Psalter Catenae: Current Trends and Recent Developments, Berlin/Boston 2024)
 
 - [Reinhart Ceulemans, The hermēneiai published in Les chaînes exégétiques grecques sur les Psaumes (1986–2018) – Dataset](data_ceulemans/index.html)
 - [Barbara Crostini, The Captions to the Illustrations in MS Vaticanus graecus 752 – Dataset](data_crostini/index.html)
-
-
